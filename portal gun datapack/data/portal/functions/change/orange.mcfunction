@@ -1,0 +1,3 @@
+
+replaceitem entity @a[nbt={Inventory:[{id:"minecraft:carrot_on_a_stick",Slot:-106b,tag:{portal:blue}}]}] weapon.mainhand carrot_on_a_stick{display:{Name:'[{"text":"portal","color":"dark_purple"},{"text":" orange","color":"gold","bold":true,"italic":true}]',Lore:['{"text":"우클릭해서 주황 포탈 소환","color":"yellow","italic":true}','{"text":"왼손들기 파랑포탈건으로 변환","color":"aqua","italic":true}']},CustomModelData:44,portal:orange}
+replaceitem entity @a[nbt={Inventory:[{id:"minecraft:carrot_on_a_stick",Slot:-106b,tag:{portal:blue}}]}] weapon.offhand air

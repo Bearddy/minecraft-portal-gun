@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "portal:click_tp"
+      }
+    }
+  },
+  "rewards": {
+    "function": "portal:craft/click_tp"
+  }
+}

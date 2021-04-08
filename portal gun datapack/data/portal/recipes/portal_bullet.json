@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "ENE",
+        "BBB"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:orange_dye"
+        },
+        "E": {
+            "item": "minecraft:ender_eye"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "B": {
+            "item": "minecraft:blue_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 2
+    }
+}
